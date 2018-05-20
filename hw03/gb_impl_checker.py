@@ -46,4 +46,4 @@ class Checker(object):
 
 
 if __name__ == '__main__':
-    print(Checker().check(SCRIPT_DIR + '/gb_impl_example.py'))
+    print(Checker().check(SCRIPT_DIR + '/gb_impl_parshin.py'))
